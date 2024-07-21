@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GlobeChildView">
+        <attr name="globeChildView_angleA" format="float"/>
+        <attr name="globeChildView_angleB" format="float"/>
+    </declare-styleable>
+</resources>
